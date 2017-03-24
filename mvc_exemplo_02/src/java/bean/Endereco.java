@@ -14,7 +14,7 @@ import java.io.Serializable;
  */
 public class Endereco implements Serializable {
 
-    // atributos da classe com LETRAS MINÚSCULAS
+    // atributos da classe LETRAS MINÚSCULAS
     private String rua;
     private int numero;
     private String cep;
