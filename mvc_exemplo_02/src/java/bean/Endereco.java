@@ -1,6 +1,6 @@
 /**
  * Arquivo: Endereco.java
- *
+ * 
  */
 package bean;
 

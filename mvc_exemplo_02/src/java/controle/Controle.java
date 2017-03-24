@@ -2,12 +2,11 @@
  * Apenas para fins educacionais.
  * Citar a fonte em caso de uso para terceiros
  */
-package controle;
+package controle; 
 
 import bean.Endereco;
 import bean.Pessoa;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.servlet.RequestDispatcher;

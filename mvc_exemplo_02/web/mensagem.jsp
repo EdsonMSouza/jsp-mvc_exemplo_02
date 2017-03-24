@@ -2,7 +2,7 @@
     Document   : mensagem.jsp
     Created on : 24/03/2017, 09:56:13
     Author     : Edson Melo de Souza (prof.edson.melo@gmail.com)
---%>
+--%> 
 <%@page import="bean.Pessoa"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

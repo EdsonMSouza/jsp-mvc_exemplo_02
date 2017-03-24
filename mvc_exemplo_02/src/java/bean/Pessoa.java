@@ -1,6 +1,6 @@
 /**
  * Arquivo: Pessoa.java
- *
+ * 
  */
 package bean;
 
